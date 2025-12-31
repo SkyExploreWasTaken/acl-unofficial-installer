@@ -1,0 +1,37 @@
+﻿<ACLConfig>
+	<WindowResolution>800x650</WindowResolution>
+	<EnableUiSounds>True</EnableUiSounds>
+	<!--If set to true, will assume you want to always pull and never fetch.-->
+	<SkipPullDialog>False</SkipPullDialog>
+	<!--If set to true, holding Ctrl will keep the launcher open instead of closing it, but not holding it will close it.-->
+	<InvertGameLaunchBehavior>False</InvertGameLaunchBehavior>
+	<CheckForLauncherUpdates>True</CheckForLauncherUpdates>
+	<AutoselectNewIwads>True</AutoselectNewIwads>
+	<AutoselectNewEngines>True</AutoselectNewEngines>
+	<SelectedTheme>Default</SelectedTheme>
+	<Engines>
+		<Engine LastSelected="True">
+			<RelativePath>engines\uzdoom\uzdoom.exe</RelativePath>
+		</Engine>
+		<Engine>
+			<RelativePath>engines\gzdoom\gzdoom.exe</RelativePath>
+		</Engine>
+		<Engine>
+			<RelativePath>engines\lzdoom\lzdoom.exe</RelativePath>
+		</Engine>
+	</Engines>
+	<IWADs>
+		<Iwad LastSelected="True">
+			<RelativePath>iwads\doom2.wad</RelativePath>
+		</Iwad>
+		<Iwad>
+			<RelativePath>iwads\doom.wad</RelativePath>
+		</Iwad>
+	</IWADs>
+	<ModPreset Name="Default" LastSelected="True" />
+	<ModPreset Name="MyHouse">
+		<Mod>
+			<RelativePath>mods\myhouse\myhouse.pk3</RelativePath>
+		</Mod>
+	</ModPreset>
+</ACLConfig>

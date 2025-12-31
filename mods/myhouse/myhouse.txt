@@ -1,0 +1,64 @@
+===========================================================================
+Advanced engine needed : GZDoom
+Primary purpose        : Single play
+===========================================================================
+Title                  : My House
+Filename               : MyHouse.pk3
+Release Date	       : 3/2/23
+Author                 : Steve Nelson
+Email Address          : veddge1987@gmail.com
+
+			 
+===========================================================================
+* What is included *
+
+New levels              : 1
+Sounds                  : Yes
+Music                   : Yes
+Graphics                : Yes
+Dehacked/BEX Patch      : No
+Demos                   : No
+Other                   : No
+Other files required    : None
+
+
+* Play Information *
+
+Game                    : Doom 2
+Single Player           : Designed for
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : No
+Other game styles       : None
+Difficulty Settings     : Yes
+
+
+* Construction *
+
+Base                    : Prior unfinished work.
+May Not Run With        : Other than GZDoom
+Tested With             : GZDoom
+
+
+* Copyright / Permissions *
+
+Authors MAY NOT use the maps in this wad as a base for additional maps.
+
+This work is licensed under the Creative Commons Attribution 4.0
+International License. To view a copy of this license, visit
+http://creativecommons.org/licenses/by/4.0/
+
+DO NOT COPY AND REDISTRIBUTE THE MATERIAL IN ANY MEDIUM OR FORMAT!
+I tried to delete this map but it continues to change and evolve without
+any input from me. What began as a tribute to a lost friend has consumed
+my entire life. As this map grew beyond what I created, I suffered
+paranoia and insomnia. It consumed me. Don't let it consume you as well.
+Delete it. Do not credit me. Do not try and contact me. Do not attempt to
+use the material for commercial purposes. Do not remix, transform, or
+build upon the material. Above all, do not distribute this file, modified
+or otherwise. I tried to keep it from the internet, but it found its way
+online. It's still changing. It wants you to feel sad. Alone. Desperate.
+Don't let it win. Don't play it.
+
+* Where to get the file that this text file describes *
+
+don't
