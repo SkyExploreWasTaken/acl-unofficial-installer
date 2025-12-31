@@ -2,17 +2,20 @@ This project includes AceCorp Launcher by Accensus
 Copyright (c) 2022-2024 Accensus
 Licensed under the MIT License
 See LICENSES/ACL-MIT.txt
+Source: https://gitlab.com/accensi/acecorp-launcher
 
 This project includes MyHouse.WAD by Steve Nelson (aka Veddge)
 Copyright (c) 2023 Steve Nelson
 Licensed under the Creative Commons Attribution 4.0 International License
 See LICENSES/MYHOUSE-CC-BY-4.0.txt
+Source: https://www.doomworld.com/forum/topic/134292-myhousewad/
 
 This project includes GZDoom by ZDoom + GZDoom teams, and contributors
 Copyright (c) 1998-2025 ZDoom + GZDoom teams, and contributors
 Doom Source (c) 1997 id Software, Raven Software, and contributors
 Licensed under the GPLv3 or any later version (GPLv3+) (LICENSES/GPLv3.txt)
 See LICENSES/GZDOOM-licenses.zip for individual contributors licenses
+Source: https://github.com/ZDoom/gzdoom/
 
 This project includes UZDoom by ZDoom + GZDoom teams, and contributors
 Copyrights:
@@ -22,6 +25,7 @@ Copyrights:
     Copyright (c) 2017-2025 GZDoom Maintainers and Contributors
     Copyright (c) 2025 UZDoom Maintainers and Contributors
 See LICENSES/UZDOOM-licenses.zip for individual contributors licenses
+Source: https://github.com/UZDoom/UZDoom
 
 This project includes LZDoom:
     Copyright 1993-1997 id Software, Raven Software and contributors
@@ -34,3 +38,4 @@ This project includes LZDoom:
     Icon and logo Copyright (c) 2019 Daniel Gimmer (Tormentor667)
     Please see license files for individual contributor licenses
 See LICENSES/LZDOOM-licenses.zip for individual contributors licenses
+Source: https://github.com/drfrag666/lzdoom/
